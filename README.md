@@ -1,5 +1,5 @@
 # photos
-Warren Woodhouse Photos. For personal use only. Not available for commercial use. See the license agreement at https://warrenwoodhouse.fandom.com/license
+Warren Woodhouse Photos. For personal use only. Not available for commercial use. See the license agreement at https://warrenwoodhouse.tumblr.com/terms
 
 # PHOTO ALBUMS
 * [National Trust Wallington Hall - 20th March 2022](https://github.com/warrenwoodhouse/photos/releases/tag/nationaltrustwallingtonhall20thmarch2022)
@@ -19,11 +19,9 @@ Warren Woodhouse Photos. For personal use only. Not available for commercial use
 * [Assassin's Creed: Valhalla](https://github.com/warrenwoodhouse/photos/releases/tag/assassinscreedvalhalla)
 
 # LICENSE AGREEMENT
-For personal use only. Not available for commercial use. See the full license agreement at https://warrenwoodhouse.fandom.com/license
+For personal use only. Not available for commercial use. See the full license agreement at https://warrenwoodhouse.tumblr.com/terms
 
 # KEEP IN TOUCH
 * Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-* Follow on Twitter: https://twitter.com/warrenwoodhouse
-* Follow on Facebook: https://facebook.com/warrenwoodhouse
-* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/blog
-* More >>>>: https://warrenwoodhouse.fandom.com/follow
+* Blog: https://warrenwoodhouse.tumblr.com/
+* More >>>>: https://warrenwoodhouse.tumblr.com/tagged/follow
